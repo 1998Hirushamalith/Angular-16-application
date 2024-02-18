@@ -25,3 +25,35 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### Application Structure
+
+In this application, i will try to make add to cart feature in angular version 16. i will also try to design UI like Flipkart.
+
+1. Fake store API : https://fakestoreapi.com/products/
+
+
+2. Angular Component & Module
+
+
+    2.1 Component like cart , header & products
+
+    2.1.1 AppComponent,
+    2.1.2 HeaderComponent,
+    2.1.3 CartComponent,
+    2.1.4 ProductsComponent,
+    2.1.5 FilterPipe 
+
+
+    2.2 Module like service which means - api and cart services and shared - fitler pipe
+
+    2.2.1 BrowserModule,
+    2.2.2 AppRoutingModule,
+    2.2.3 HttpClientModule,
+    2.2.4 FormsModule,
+    2.2.5 ReactiveFormsModule
+
+3. Styling sheet packages - bootstrap and font awesome kits
+4. Angular routing
+5. Input Decorator in Angular
+6. Output Decorator in Angular
