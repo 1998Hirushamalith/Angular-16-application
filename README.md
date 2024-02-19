@@ -2,6 +2,33 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
+Home page - all categories
+
+![image](https://github.com/1998Hirushamalith/Angular-16-application/assets/130145482/051565b4-c131-4106-ac7d-360e7de14e40)
+
+Once i cicked for electronics tag
+
+![image](https://github.com/1998Hirushamalith/Angular-16-application/assets/130145482/37a0a2b9-7a85-49b4-8c5d-4d27fd6795d0)
+
+Once i cicked for fashion tag
+
+![image](https://github.com/1998Hirushamalith/Angular-16-application/assets/130145482/f0cf3b88-d5cc-48c6-9e34-326ec79acd1c)
+
+Once i cicked for jewellary tag
+
+![image](https://github.com/1998Hirushamalith/Angular-16-application/assets/130145482/58b5e4cd-ef0c-4299-baec-6afc3e6357e7)
+
+Add to cart
+
+![image](https://github.com/1998Hirushamalith/Angular-16-application/assets/130145482/40d87c8c-e11f-47ea-855a-f6801ba50785)
+
+
+Empty cart
+
+![image](https://github.com/1998Hirushamalith/Angular-16-application/assets/130145482/dc92d6bd-4c6d-4b27-99bf-dbd7b36a85ac)
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
